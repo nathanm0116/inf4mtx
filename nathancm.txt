@@ -1,0 +1,4 @@
+nathancm
+I am a UCI software engineering student. 
+I am taking introduction to software engineering this quarter
+This is my first time using git
